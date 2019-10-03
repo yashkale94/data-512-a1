@@ -4,13 +4,13 @@ Assignment A1: Data Curation
 # GOAL
 The goal of the project is to understand the right steps and correct methods to clean data and display the data, so that the end user understands the message that needs to be conveyed
 
-# Data Source
-The data used for this analysis was found here: ()
+# Data Source and terms of use:
+The Wikimedia Foundation REST API terms of use: https://www.mediawiki.org/wiki/REST_API#Terms_and_conditions
 
 # API Documentation:
-Legacy API: (https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts)
+Legacy API: https://wikitech.wikimedia.org/wiki/Analytics/AQS/Legacy_Pagecounts
 
-Pageviews API: (https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews)
+Pageviews API: https://wikitech.wikimedia.org/wiki/Analytics/AQS/Pageviews
 
 # Data Fields and their values in the CSV file
 pagecount_all_views: This represents the views across both mobile and desktop access through pagecount API
